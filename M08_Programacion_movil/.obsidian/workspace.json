@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "4583b9aaf45544a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdaea968e381130a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adab092b6ab3256e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treball Recerca.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d482aa159bee400",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfd94a58695c423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16754c060f4364ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09e12673e0b3aec5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae8de678f4ffdb9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f34d2ed3e2610a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "debf098ad89ec643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b1c19053d8b49b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Treball Recerca.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cde3f8a2c0601ec5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Treball Recerca.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d96faa87b4de92d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ed507ce90bd4b8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Treball Recerca.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "adab092b6ab3256e",
+  "lastOpenFiles": [
+    "^.md",
+    "Treball Recerca.md",
+    "StatCounter-vendor-ww-monthly.png",
+    "InfografiasAndroid.png"
+  ]
+}
