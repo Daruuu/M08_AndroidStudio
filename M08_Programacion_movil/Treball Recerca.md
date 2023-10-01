@@ -422,21 +422,35 @@ Android studio puede ser descargado gratuitamente y utilizado por cualquiera. Es
 [Qt Creator es un IDE](https://www.qt.io/product/development-tools) multiplataforma para desarrolladores móviles experimentados.
 
 Este IDE soporta los lenguajes C , C++ y es compatible con los sistemas operativos Windows, Linux y macOS. Es gratuito para uso personal, pero cuesta a partir de 350 dólares para uso comercial.
+
 #### 3. Xcode
 
 [Xcode](https://developer.apple.com/xcode/ide/) es un IDE de uso común para los sistemas operativos macOS. Utilizando este IDE, los desarrolladores pueden desarrollar software o aplicaciones en Mac que pueden utilizarse en iOS, iPadOS, macOS, tvOS y watchOS.
 
- Xcode ofrece el mejor desarrollo basado en pruebas. Con su navegador de pruebas, los desarrolladores pueden saltar rápidamente a cualquier prueba específica. 
- Además, los desarrolladores pueden rastrear fácilmente qué código está actualmente en edición y sincronizarlo utilizando la vista específica de pruebas del editor asistente.
+Xcode ofrece el mejor desarrollo basado en pruebas. Con su navegador de pruebas, los desarrolladores pueden saltar rápidamente a cualquier prueba específica. 
+Además, los desarrolladores pueden rastrear fácilmente qué código está actualmente en edición y sincronizarlo utilizando la vista específica de pruebas del editor asistente.
+
 ### 9.3. Requeriments tècnics per desenvolupar apps (pista: necessites el mateix per desenvolupar per Android que per iOS?)
 
 Para desarrollar aplicaciones para Android solamente necesitamos como minimo un portatil que tenga minimo 8GB de RAM, sin importar el tipo de sistema operativo puede ser Windows o Unix, y si tenemos un movil android estaria muy bien, aunque no es necesario del todo dado que podemos utilizar un simulador virtual dentro de nuestro propio IDE.
 
 Por otro lado tenemos la creacion de aplicaciones en iOS, para lo cual si que necesitamos obligatoriamente tener un dispositivo de la marca apple tanto para poder empezar a programar, como para poder testear nuestra aplicacion, es decir debemos tener una laptop de la marca Apple y tambien un iPhone para poder testear nuestra aplicacion.
+
 ## 10. CONCLUSIONS
 
+En resumen, este  proyecto de investigacion sobre el area de los dispostivos moviles enfocado al tema principal de lo que estamos aprendiendo en M08.
+
+He aprendido que en el ambito de los dispositivos moviles es realemente amplio , no solamente en el echo de que existen diferentes sistemas operativos y que los mas importantes son Android y iOS. Tambien las dos marcas lideres en el mercado de dispositivos moviles son Apple y Samsung, su diferencia de cantidad de dispositivos android es totalmente mayor a la cantidad de  dispositivos iOS.
+
+Saber y entender que lenguaje utilizar al momento de querer crear una aplicacion movil tanto si es una aplicacion multiplataforma como si es solamente para una plataforma.
+Si queremos crear una aplicacion multiplataforma es probable que seleccione React Native o Flutter. Las importancia de un IDE tambien es importante la momento de crear codigo, poder tener facilidades al momento de interactuar con el entorno del IDE.
+
+En conclusion con este proyecto he aprendido un poco mas a fondo los distintos lenguajes de programacion enfocado a crear aplicaciones android , por ejemplo cuando tengamos la necesidad de crear un juego es muy probable que seleccionemos el lenguaje C++ dado que es un lenguaje que trabaja muy de cerca con el sistema operativos y eso nos ayudara a crear una aplicacion eficiente respecto a coste algoritmico de un programa.
+
+En resumen ahora siento que el projecto me ha brindado una mejor base, ahora me parece aun mas interesante la asignatura de M08 .
 
 ## Webgrafía
+En este apartado se han agregado los sitios webs de donde se ha recopilado informacion.
 
  - fabricantes de moviles mas importantes
 https://www.lavanguardia.com/andro4all/moviles/estas-son-las-10-companias-fabricantes-de-moviles-mas-grandes-del-mundo
@@ -480,8 +494,6 @@ https://ww2.movistar.cl/blog/post/que-es-nfc-celular-para-que-sirve/#:~:text=El%
 https://www.intel.la/content/www/xl/es/products/docs/wireless/how-does-bluetooth-work.html#:~:text=La%20tecnolog%C3%ADa%20Bluetooth%20conecta%20las,frecuencia%20de%202%2C4%20GHz.
 
 https://blog.orange.es/red/que-es-bluetooth/
-
-
 
 
 

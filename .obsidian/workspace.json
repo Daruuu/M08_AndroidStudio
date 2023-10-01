@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "8b2fed75626a103e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd9b64922ab35033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "709e8186cdd820d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M08_Programacion_movil/Treball Recerca.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "89c83dad1e8bf5a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f373f2cb65cefc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c940cc96f74651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c6fada8b97a0a42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5dac7d3f2cc7dec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e9a5674a5532046",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f866d3d7312aabb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8d1623aa033286c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4e489f95bd7345",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9363baa10b84e81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "542924d00485b6a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bec4178f2f028ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "89c83dad1e8bf5a1",
+  "lastOpenFiles": [
+    "M08_Programacion_movil/Treball Recerca.md",
+    "Treball Recerca.pdf"
+  ]
+}
