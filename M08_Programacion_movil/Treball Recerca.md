@@ -85,8 +85,41 @@ Un listado que evidencia el poder tecnológico de ambas empresas en lo que a tel
 
 ## 5. HISTÒRIA / EVOLUCIÓ (des de els primers smartphones fins avui)
 
+### Historia de Android
+Cuatro fueron los responsables del _Android primigenio_: Rich Miner, Andy Rubin, Nick Sears y Chris White. Los cuatro habían creado de la nada un nuevo sistema operativo de código abierto, basado en Linux y específicamente diseñado para dispositivos con pantalla táctil y “móviles que tengan en cuenta la ubicación y las preferencias de quien lo esté usando”.
 
-  
+#### Android 1.0: el nacimiento de una leyenda
+El teléfono HCT Dream llevaba preinstalada la primera versión de Android, llamada Apple Pie. Se lanzó de manera oficial el 23 de septiembre de 2008 y, claro, era un SO muy sencillo que disponía de lo básico. De cualquier forma, algunas características asentaron la base de lo que es a día de hoy Android, como el menú desplegable de notificaciones, los widgets en escritorio, etc.
+
+#### Android y sus diferentes versiones
+
+Los nombre de las versiones de Android llevaban nombre en orden alfabetico.
+
+|**Versión**|**Nombre**| **Datos importantes** |
+|------------|------------|------------------------ |
+|Android 1.0|Apple Pie|                 |
+|Android 1.1|Petit Four |
+|Android 1.5|Cupcake|   |
+|Android 1.6|Donut|
+|Android 2.0-2.1|Eclair| funcion de GPS |
+|Android 2.2 – 2.2.3|Froyo|Comandos de voz, zona wifi portátil |
+|Android 2.3 – 2.3.7|Gingerbread| Aparicion de NFC |
+|Android 3.0 – 3.2.6|Honeycomb|
+|Android 4.0 – 4.0.5|Ice Cream Sandwich | interfaz Holo, carpetas en pantalla de inicio |
+|Android 4.1 – 4.3.1|Jelly Bean| Google Now |
+|Android 4.4 – 4.4.4|Kit Kat|
+|Android 5.0 – 5.1.1|Lollipop| Material Design |
+|Android 6.0 – 6.0.1|Marshmallow|
+|Android 7.0 – 7.1.2|Nougat| Multiventana |
+|Android 8.0 – 8.1|Oreo|
+|Android 9.0|Pie| Gestos de Android |
+|Android 10.0| | Navegacion por gesto, modo oscuro |
+|Android 11.0| | Android Auto, grabador de pantalla |
+
+
+### Historia de iOS 
+
+
   
 
 ## 6. SISTEMES OPERATIUS (Android, iOS, tizen...)
@@ -115,6 +148,14 @@ Se lanzó originalmente para el teléfono de la marca, aunque también se ha uti
 Se trata de un sistema cerrado que no puedes utilizar salvo en dispositivos de marca Apple. 
 
 La gran diferencia entre iOS y Android es que el sistema operativo de Google puede instalarse en infinidad de teléfonos de todas las marcas, pero iOS es un sistema cerrado y exclusivo. 
+
+### Tizen OS
+
+Es el sistema operativo de las _Smart TV de Samsung_.
+El sistema operativo de un televisor carga las aplicaciones y maneja la interacción con el contenido.
+En concreto, Tizen es un sistema operativo de **código abierto basado en Linux**  desarrollado por Samsung e Intel. Todos los televisores inteligentes Samsung están integrados con Tizen OS.
+
+Dado que Tizen OS es de código abierto, está disponible para que todos los desarrolladores creen una aplicación que no solo esté optimizada para Smart TV, sino también para otros dispositivos conectados, como teléfonos inteligentes, electrodomésticos, monitores y más.
 
 ## 7. TECNOLOGIES ( 4G, 5G, WIFI, NFC, Bluetooth…)
 

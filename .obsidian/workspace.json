@@ -14,24 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "M08_Programacion_movil/Treball Recerca.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e49c8d5d18751259",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e69060c351689d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "M08_Programacion_movil/Treball Recerca.md",
                 "mode": "preview",
                 "source": true
               }
@@ -167,6 +149,16 @@
   },
   "active": "1866df6dd17dcccc",
   "lastOpenFiles": [
+    "Treball Recerca_dasalazar.pdf",
+    "ft_puthexa_nbr.c",
+    "ft_putchar_n.c",
+    "ft_put_uint_nbr.c",
+    "Makefile",
+    "ft_putstr.c",
+    "ft_putnbr_n.c",
+    "ft_put_ptr.c",
+    "ft_printf.h",
+    "ft_printf.c",
     "M08_Programacion_movil/Treball Recerca.md",
     "Treball Recerca.pdf"
   ]
