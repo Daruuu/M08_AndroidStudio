@@ -85,6 +85,7 @@ Un listado que evidencia el poder tecnológico de ambas empresas en lo que a tel
 
 ## 5. HISTÒRIA / EVOLUCIÓ (des de els primers smartphones fins avui)
 
+
   
   
 
@@ -101,7 +102,7 @@ Es decir, se trata de todo aquello que puedes ver y con lo que puedes interactua
 
 Android es un sistema operativo basado en Linux, diseñado principalmente para smarthphones y tabletas.
 
-![infografia_android | 600x 1500](InfografiasAndroid.png)
+![infografia_android | 600x 1050](InfografiasAndroid.png)
 
 ### iOS 
 ^40b6d9
@@ -227,24 +228,24 @@ Como podemos observar si comparamos ambas tablas la proporción que abarca Andro
 
 En el área del desarrollo de creación de aplicaciones móviles tenemos distintos lenguajes de programación a nuestro alcance, donde también importa si es para un tipo de dispositivo o si es para una aplicación multiplataforma.
 
--  Lenguajes para crear [aplicaciones Android](#^ec92d7) :
-- [Java](#^fef5b7)
-- [Kotlin](#^dbc17a)
-- [C++](#^5cabb7)
-- Basic
-- Lua
+- Lenguajes para crear [aplicaciones Android](#^ec92d7) :
+	- [Java](#^fef5b7)
+	- [Kotlin](#^dbc17a)
+	- [C++](#^5cabb7)
+	- Basic
+	- Lua
+ 
+- Lenguajes para crear [aplicaciones iOS](#^03507b):
+	- [Swift](#^d53c6f)
+	- [Objective-C](#^ba5b15)
 
--  Lenguajes para crear [aplicaciones iOS](#^03507b):
-- [Swift](#^d53c6f)
-- [Objective-C](#^ba5b15)
+- Crear aplicaciones multiplataformas:
+	- [React Native](#^b84340)
+	- [Flutter](#^5a41c1)
+	- Xamarin
+	- Ionic
 
- - Crear aplicaciones multiplataformas:
-- [React Native](#^b84340)
-- [Flutter](#^5a41c1)
-- Xamarin
-- Ionic
-
-Al crear aplicaciones Android los lenguajes de programación más importantes son _Java_ y _kotlin_ si es para crear aplicaciones nativas.
+Al crear aplicaciones Android los lenguajes de programación más importantes son _Java_ y _Kotlin_ si es para crear aplicaciones nativas.
 
 Y para crear aplicaciones en iOS los lenguajes de programación son _Swift_ y _Objective-C_ para crear aplicaciones nativas.
 
@@ -502,55 +503,47 @@ En resumen ahora siento que el proyecto me ha brindado una mejor base, ahora me 
 
 Apartado se han agregado los sitios webs de donde se ha recopilado información.
 
- - fabricantes de móviles más importantes
+- fabricantes de móviles más importantes
+	https://www.lavanguardia.com/andro4all/moviles/estas-son-las-10-companias-fabricantes-de-moviles-mas-grandes-del-mundo
 
-https://www.lavanguardia.com/andro4all/moviles/estas-son-las-10-companias-fabricantes-de-moviles-mas-grandes-del-mundo
-
-
-https://www.estrategiaynegocios.net/lasclavesdeldia/los-10-mayores-fabricantes-de-telefonos-moviles-del-mundo-LYEN1309211#image-1
-
-  
+	https://www.estrategiaynegocios.net/lasclavesdeldia/los-10-mayores-fabricantes-de-telefonos-moviles-del-mundo-LYEN1309211#image-1
 
 - mejores marcas de moviles 2023
-
-https://www.oechsle.pe/inspira/marcas-de-celulares-2023
-
-  
+	https://www.oechsle.pe/inspira/marcas-de-celulares-2023
 
 - lideres en venta de móviles apple y samsung
 
-https://es.statista.com/grafico/29636/cuota-de-mercado-de-telefonos-moviles-en-el-mundo-por-proveedores-lideres/#:~:text=Actualmente%2C%20Apple%20y%20Samsung%20son,mercado%20del%2012%2C16%25.
+	https://es.statista.com/grafico/29636/cuota-de-mercado-de-telefonos-moviles-en-el-mundo-por-proveedores-lideres/#:~:text=Actualmente%2C%20Apple%20y%20Samsung%20son,mercado%20del%2012%2C16%25.
 
-https://www.movilzona.es/noticias/smartphones/lista-10-moviles-mas-vendidos-primer-semestre-2023/
+	https://www.movilzona.es/noticias/smartphones/lista-10-moviles-mas-vendidos-primer-semestre-2023/
 
 - android
-https://edu.gcfglobal.org/es/informatica-basica/que-es-una-aplicacion-movil/1/
+	https://edu.gcfglobal.org/es/informatica-basica/que-es-una-aplicacion-movil/1/
 
-https://edu.gcfglobal.org/es/como-usar-android/configuracion-inicial-de-android/1/
-iOS
-https://view.genial.ly/6499db10f4e953001a4ac871/interactive-content-infografia-de-ios
-https://www.eresseasolutions.com/articulos/infografia/la-evolucion-de-ios/
+	https://edu.gcfglobal.org/es/como-usar-android/configuracion-inicial-de-android/1/
+- iOS
+	https://view.genial.ly/6499db10f4e953001a4ac871/interactive-content-infografia-de-ios
+	https://www.eresseasolutions.com/articulos/infografia/la-evolucion-de-ios/
 
-4g
-https://www.elespanol.com/elandroidelibre/20151229/funciona-rapido/90491042_0.html
+- 4g
+	https://www.elespanol.com/elandroidelibre/20151229/funciona-rapido/90491042_0.html
 
-
-apps mas download android iOS
-https://www.trecebits.com/apps-mas-descargadas/
+- apps mas download android iOS
+	https://www.trecebits.com/apps-mas-descargadas/
 
 - 5g 
-https://www.ferrovial.com/es/recursos/5g/
+	https://www.ferrovial.com/es/recursos/5g/
 
 - wifi
-https://www.netspotapp.com/es/blog/all-about-wifi/what-is-wifi.html#Qu%C3%A9_es_WiFi_y_qu%C3%A9_significa_WiFi
+	https://www.netspotapp.com/es/blog/all-about-wifi/what-is-wifi.html#Qu%C3%A9_es_WiFi_y_qu%C3%A9_significa_WiFi
 
 - nfc
-https://ww2.movistar.cl/blog/post/que-es-nfc-celular-para-que-sirve/#:~:text=El%20NFC%20es%20una%20tecnolog%C3%ADa,de%20distancia%20para%20que%20funcione.
+	https://ww2.movistar.cl/blog/post/que-es-nfc-celular-para-que-sirve/#:~:text=El%20NFC%20es%20una%20tecnolog%C3%ADa,de%20distancia%20para%20que%20funcione.
 
 - bluetooth
-https://www.intel.la/content/www/xl/es/products/docs/wireless/how-does-bluetooth-work.html#:~:text=La%20tecnolog%C3%ADa%20Bluetooth%20conecta%20las,frecuencia%20de%202%2C4%20GHz.
-https://blog.orange.es/red/que-es-bluetooth/
+	https://www.intel.la/content/www/xl/es/products/docs/wireless/how-does-bluetooth-work.html#:~:text=La%20tecnolog%C3%ADa%20Bluetooth%20conecta%20las,frecuencia%20de%202%2C4%20GHz.
+	https://blog.orange.es/red/que-es-bluetooth/
 
 - android lenguajes
-https://blog.back4app.com/es/los-mejores-lenguajes-de-programacion-para-aplicaciones-de-android-y-ios/#Cual_es_el_mejor_lenguaje_de_programacion_para_el_desarrollo_de_iOS
+	https://blog.back4app.com/es/los-mejores-lenguajes-de-programacion-para-aplicaciones-de-android-y-ios/#Cual_es_el_mejor_lenguaje_de_programacion_para_el_desarrollo_de_iOS
   

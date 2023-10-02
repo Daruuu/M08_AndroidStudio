@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd9b64922ab35033",
+        "id": "50073673a6448b32",
         "type": "tabs",
         "children": [
           {
-            "id": "709e8186cdd820d8",
+            "id": "1866df6dd17dcccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,17 +18,26 @@
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e49c8d5d18751259",
+        "type": "tabs",
+        "children": [
           {
-            "id": "89c83dad1e8bf5a1",
+            "id": "1e69060c351689d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "M08_Programacion_movil/Treball Recerca.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "M08_Programacion_movil/Treball Recerca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "M08_Programacion_movil/Treball Recerca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "M08_Programacion_movil/Treball Recerca.md"
+              }
             }
           }
         ]
@@ -152,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89c83dad1e8bf5a1",
+  "active": "1866df6dd17dcccc",
   "lastOpenFiles": [
     "M08_Programacion_movil/Treball Recerca.md",
     "Treball Recerca.pdf"
