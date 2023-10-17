@@ -1,4 +1,4 @@
-package com.dasalaza.basicviewapp;
+package com.dasalaza.magicgame;
 
 import android.os.Bundle;
 
@@ -8,12 +8,13 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.view.View;
 
+import androidx.core.view.WindowCompat;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.dasalaza.basicviewapp.databinding.ActivityMainBinding;
+import com.dasalaza.magicgame.databinding.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;

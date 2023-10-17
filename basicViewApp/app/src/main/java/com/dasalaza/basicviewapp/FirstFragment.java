@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
@@ -15,30 +16,23 @@ import com.dasalaza.basicviewapp.databinding.FragmentFirstBinding;
 public class FirstFragment extends Fragment {
 
     private FragmentFirstBinding binding;
+    TextView showCountTextView;
 
     @Override
     public View onCreateView(
             LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState
     ) {
-
         binding = FragmentFirstBinding.inflate(inflater, container, false);
+       /*View fragmentFirstLayout = inflater.inflate(R.layout.fragment_first, container, false);
+        showCountTextView = fragmentFirstLayout.findViewById(R.id.textview_first);
+        return fragmentFirstLayout; */
         return binding.getRoot();
-
-    }
-    private void countMe(View view)
-    {
-        //get the value od the text view
-        String countString;
-
-//        Integer count =  Integer.parseInt(countString);
-//        count++;
     }
 
     //function where call a view and
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-
         binding.randomButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -57,6 +51,7 @@ public class FirstFragment extends Fragment {
             }
         });
 
+        /*view.findViewById((R.id.count_button)).setOnClickListener(new View.OnClickListener() {*/
         binding.textviewFirst.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -65,10 +60,17 @@ public class FirstFragment extends Fragment {
         });
     }
 
+    public void countMe(View view) {
+        //get the value of the text view
+        String countString = showCountTextView.getText().toString();
+        Integer countStr = Integer.parseInt(countString);
+        countStr++;
+        showCountTextView.setText(countStr.toString());
+    }
+
     @Override
     public void onDestroyView() {
         super.onDestroyView();
         binding = null;
     }
-
 }
