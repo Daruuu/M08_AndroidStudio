@@ -6,6 +6,7 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="random_header">Here is a random number between 0 and d%</string>
     <string name="string01">Preview</string>
     <string name="button02">Button</string>
     <string name="textview_str">0</string>

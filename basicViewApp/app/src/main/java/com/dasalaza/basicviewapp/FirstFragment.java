@@ -27,7 +27,7 @@ public class FirstFragment extends Fragment {
        /*View fragmentFirstLayout = inflater.inflate(R.layout.fragment_first, container, false);
         showCountTextView = fragmentFirstLayout.findViewById(R.id.textview_first);
         return fragmentFirstLayout; */
-        return binding.getRoot();
+        return binding.getRoot().findViewById(R.id.textview_first);
     }
 
     //function where call a view and
@@ -51,7 +51,6 @@ public class FirstFragment extends Fragment {
             }
         });
 
-        /*view.findViewById((R.id.count_button)).setOnClickListener(new View.OnClickListener() {*/
         binding.textviewFirst.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
