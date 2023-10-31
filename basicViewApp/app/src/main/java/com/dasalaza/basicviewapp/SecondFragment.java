@@ -30,10 +30,8 @@ public class SecondFragment extends Fragment {
 
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-
-
 /*
-        Integer count = SecondFragmentArgs.fromBundle(getArguments()).getMyArg();
+        Integer count = SecondFragmentArgs .(getArguments()).getMyArg();
         String countText = getString(R.string.random_heading, count);
         TextView headerView = view.getRootView().findViewById(R.id.textview_header);
         headerView.setText(countText);

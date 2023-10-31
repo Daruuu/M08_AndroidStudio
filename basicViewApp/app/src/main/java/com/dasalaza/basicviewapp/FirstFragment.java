@@ -24,10 +24,8 @@ public class FirstFragment extends Fragment {
             Bundle savedInstanceState
     ) {
         binding = FragmentFirstBinding.inflate(inflater, container, false);
-       /*View fragmentFirstLayout = inflater.inflate(R.layout.fragment_first, container, false);
-        showCountTextView = fragmentFirstLayout.findViewById(R.id.textview_first);
-        return fragmentFirstLayout; */
-        return binding.getRoot().findViewById(R.id.textview_first);
+//        showCountTextView = binding.textviewFirst.findViewById(R.id.textview_first);
+        return binding.getRoot();
     }
 
     //function where call a view and
